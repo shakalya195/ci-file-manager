@@ -6,7 +6,7 @@
  *
  * Copyright (C) 2016 shakalya uttam
  *
- * http://shakalya195.github.com/ci-file-manager
+ * http://shakalya.com/filemanager-for-codeigniter/
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
