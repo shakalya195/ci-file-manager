@@ -1,6 +1,6 @@
 # ci-file-manager
 
-/*!
+/*
  * ci-file-manager, a php module for codeigniter 
  * Version: 1.4.1 (26th July 2013)
  *
